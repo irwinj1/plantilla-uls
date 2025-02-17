@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\Api\CreatePermissionRolController;
 use App\Http\Controllers\Api\CreatePrimissionRolController;
-use App\Http\Controllers\Api\PersonalInformationUserController;
+
 use App\Http\Controllers\AuthController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
